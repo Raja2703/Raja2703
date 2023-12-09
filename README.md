@@ -13,9 +13,9 @@
 
 </h3>
 
-<p>Welcome to my page!</br></br> Hello folks! <b>I'm Raja</b> an aspiring Front-end Web developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Computer Science at College of Engineering, Guindy.
+<p>Welcome to my page!</br></br> Hello folks! <b>I'm Raja</b> an aspiring FullStack Web developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Computer Science at College of Engineering, Guindy.
 
-I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
+I have a great passion to programming, develop web apps, and API's. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhance my skills, explore new challenges, and grow professionally.
 
 </p>
 
