@@ -48,11 +48,11 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 <h3>Languages & Databases</h3>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,mongodb,mysql,postgresql)](https://skillicons.dev)
  
 <h3>Framework & Technologies </h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,express,expo)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,express,adonis,vue,fastapi,prisma)](https://skillicons.dev)
   
 <h3> Tools & Platform </h3>
   
